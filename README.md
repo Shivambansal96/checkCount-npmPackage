@@ -6,7 +6,7 @@
 # Library Usage
 
 ```
-const { CountFrequency } = require("asingh-array-utils");
+const { CountFrequency } = require("check-count");
 
 const data = [1,4,2,34,5,7,78,2,3]
 
